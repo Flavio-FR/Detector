@@ -2,7 +2,7 @@
 
 Sistema de reconocimiento facial desarrollado en Python con PyQt6. Esta aplicación permite identificar rostros en tiempo real utilizando una interfaz gráfica amigable y funciones avanzadas de visión por computadora.
 
----
+
 
 ## ✨ Características Principales
 
@@ -13,7 +13,7 @@ Sistema de reconocimiento facial desarrollado en Python con PyQt6. Esta aplicaci
 - 📋 Acceso a historial de registros
 - 🎛️ Interfaz moderna con PyQt6
 
----
+
 
 ## 🧰 Tecnologías Utilizadas
 
@@ -23,7 +23,7 @@ Sistema de reconocimiento facial desarrollado en Python con PyQt6. Esta aplicaci
 - 🧠 **NumPy** – Procesamiento de datos
 - 🗃️ **SQLite (opcional)** – Gestión de registros
 
----
+
 
 ## 🖥️ Interfaz de Usuario (GUI)
 
@@ -33,7 +33,7 @@ Sistema de reconocimiento facial desarrollado en Python con PyQt6. Esta aplicaci
 - **Área de cámara:** Vista en vivo con detección en tiempo real  
 - **Menú superior:** Archivo, Ayuda, Salir
 
----
+
 
 ## 📂 Estructura del Proyecto
 
@@ -52,7 +52,7 @@ yaml
 Copiar
 Editar
 
----
+
 
 ## ⚙️ Requisitos Previos
 
